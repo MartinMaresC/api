@@ -11,7 +11,7 @@ getCharacters (data => {
 
         data.results.forEach(personaje => {
 
-            const article = document.createRange().createContextualFragment(/*HTML */
+            const article = document.createRange().createContextualFragment(/*HTML */ 
             
             `
             <article>
